@@ -1025,6 +1025,9 @@
                 <mxCell id="-Yv9RH5pwTCra0XLEg7_-643" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;B-A1 - Access Switch 1 for Building B&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1613.05" y="-366" width="530" height="100" as="geometry"/>
                 </mxCell>
+                <mxCell id="fiber_qos_note" value="&lt;b&gt;NOTE: Link from Core to Transportables (T1/T2/T3) MUST be fiber optic due to 200m distance.&lt;br&gt;QoS policies are required for 4K video from T3.&lt;/b&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="1000" y="-550" width="1000" height="80" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>

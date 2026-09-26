@@ -643,6 +643,9 @@
                 <mxCell id="fvq2h3I9SmsA_sH_rTak-226" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;T1-D2&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="786" y="237" width="60" height="30" as="geometry"/>
                 </mxCell>
+                <mxCell id="fiber_qos_note" value="&lt;b&gt;NOTE: Cabling to T-buildings (200m) MUST use OS2 Single-Mode Fiber (10GBASE-LR). QoS must be configured for 4K video streams in T3.&lt;/b&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="-100" width="800" height="60" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
